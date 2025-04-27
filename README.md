@@ -2,7 +2,7 @@
 
 Hello!  I'm a software engineer with 7 years of experience in Unity and C#. Specialized in Simulation, Multiplayer, Gaming and XR projects with a background in Electrical Engineering and R&D in IoT. Passionate about game development and modular systems.
 
-- 🔭 I’m currently working on [QR Code Generator](https://github.com/hakansa00219/QRGenerator) project and [Retribution (Game Jam Project)](https://github.com/hakansa00219/Retribution).
+- 🔭 I’m currently working on [QR Code Generator](https://github.com/hakansa00219/QRGenerator) project.
 - 🌱 I’m currently learning DOTS, Shaders.
 
 ### 🌐 Projects

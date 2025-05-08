@@ -1,6 +1,6 @@
 ## 💪 Hakan Sarıoğlu  | Software Engineer - Unity Developer 
 
-Hello!  I'm a software engineer with 7 years of experience in Unity and C#. Specialized in Simulation, Multiplayer, Gaming and XR projects with a background in Electrical Engineering and R&D in IoT. Passionate about game development and modular systems.
+Hello!  I'm a software engineer with 7 years of experience in Unity, C# and .NET Framework. Specialized in Simulation, Multiplayer, Gaming and XR projects with a background in Electrical Engineering and R&D in IoT. Passionate about game development and modular systems.
 
 - 🔭 I’m currently working on [QR Code Generator](https://github.com/hakansa00219/QRGenerator) project.
 - 🌱 I’m currently learning Shaders.
@@ -24,10 +24,10 @@ Hello!  I'm a software engineer with 7 years of experience in Unity and C#. Spec
 
 ### 🛠️ Experiences
 - Game Development (Unity, C#, DOTS),
-- Multiplayer Systems (Photon Pun/Fusion/Quantum, Fish-Networking),
+- Multiplayer Systems (Photon Pun/Fusion/Quantum, Fish-Networking, WebSocket, TCP/UDP),
 - Simulation, Training projects,
 - XR Development (Meta Quest 2),
 - IoT Projects (MQTT, Raspberry Pi),
 - Custom Unity Editor Tools,
-- Real-time communication systems (Agora SDK),
+- Real-time communication systems (Agora JavaScript SDK),
 - Visual Scripting (NodeCanvas).

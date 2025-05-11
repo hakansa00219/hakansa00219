@@ -2,7 +2,9 @@
 
 Hello!  I'm a software engineer with 7 years of experience in Unity, C# and .NET Framework. Specialized in Simulation, Multiplayer, Gaming and XR projects with a background in Electrical Engineering and R&D in IoT. Passionate about game development and modular systems.
 
-- 🔭 I’m currently working on [QR Code Generator](https://github.com/hakansa00219/QRGenerator) project.
+[![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakansa00219&theme=midnight-purple&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on [QR Code Generator](https://github.com/hakansa00219/QRGenerator) project.                                     
 - 🌱 I’m currently learning Shaders and CI/CD using Github Actions.
 
 ### 🌐 Projects

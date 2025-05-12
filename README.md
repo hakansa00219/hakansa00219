@@ -8,6 +8,7 @@ Hello!  I'm a software engineer with 7 years of experience in Unity, C# and .NET
 <a href="https://github.com/hakansa00219/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-git-main-hakansa00219s-projects.vercel.app/api/top-langs?username=hakansa00219&theme=midnight-purple&layout=compact&langs_count=8&card_width=320" />
 </a>
+<br><br>
 
 - 🔭 I’m currently working on [QR Code Generator](https://github.com/hakansa00219/QRGenerator) project.                                     
 - 🌱 I’m currently learning Shaders and CI/CD using Github Actions.

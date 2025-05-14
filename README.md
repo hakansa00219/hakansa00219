@@ -37,5 +37,5 @@ Hello!  I'm a software engineer with 7 years of experience in Unity, C# and .NET
 - XR Development (Meta Quest 2),
 - IoT Projects (MQTT, Raspberry Pi),
 - Custom Unity Editor Tools,
-- Real-time communication systems (Agora JavaScript SDK),
+- Real-time communication systems (Agora),
 - Visual Scripting (NodeCanvas).

@@ -33,7 +33,7 @@ Hello!  I'm a software engineer with 7 years of experience in Unity, C# and .NET
 ### 🛠️ Experiences
 - Game Development (Unity, C#, DOTS),
 - CI/CD (Github Actions)
-- Multiplayer Systems (Photon Pun/Fusion/Quantum, Fish-Networking, WebSocket, TCP/UDP),
+- Multiplayer Systems (Photon Pun/Fusion/Quantum, FishNet-Networking, WebSocket, TCP/UDP),
 - Simulation, Training projects,
 - XR Development (Meta Quest 2),
 - WebGL Applications (Metaverse)

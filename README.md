@@ -11,7 +11,7 @@ Hello!  I'm a software engineer with 7 years of experience in Unity, C# and .NET
 <br><br>
 
 - 🔭 I’m currently working on [QR Code Generator](https://github.com/hakansa00219/QRGenerator) project.                                     
-- 🌱 I’m currently learning Shaders and CI/CD using Github Actions.
+- 🌱 I’m currently learning CI/CD using Github Actions.
 
 ### 🌐 Projects
 

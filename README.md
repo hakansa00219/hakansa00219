@@ -18,7 +18,7 @@ Hello!  I'm a software engineer with 7 years of experience in Unity, C# and .NET
 
 | Projects                  | Techs          | Description                             | Link        | Done |
 |--------------------------|-----------------------|---------------------------------------|-------------|------------|
-| Slime        | Unity, WebGL, Game, itch.io, [Odin Inspector](https://odininspector.com/) , [UniTask](https://github.com/Cysharp/UniTask)   | Don't know yet. | [Repo](https://github.com/hakansa00219/Slimejam) | No |
+| Slime        | Unity, WebGL, Game, itch.io, [Odin Inspector](https://odininspector.com/) , [UniTask](https://github.com/Cysharp/UniTask)   | Game jam game | [Repo](https://github.com/hakansa00219/Slimejam) | No |
 | QR Generator         | Unity, WebGL, [CI/CD (Github Actions)](https://github.com/hakansa00219/QRGenerator/actions), [Odin Inspector](https://odininspector.com/)  | QR generator application with Unity without any 3rd party tools. | [Repo](https://github.com/hakansa00219/QRGenerator) | ✔️ |
 | Retribution        | Unity, WebGL, Game, itch.io, [Odin Inspector](https://odininspector.com/) , [UniTask](https://github.com/Cysharp/UniTask), [Blender (3D)](https://www.blender.org/), [Aseprite (2D)](https://www.aseprite.org/), [BoscaCeoil (Music)](https://boscaceoil.net/oldindex.html)   | Multiple perspective changing, action, shooter like game. | [Repo](https://github.com/hakansa00219/Retribution) - [itch.io](https://hsari.itch.io/retribution) | ✔️ |
 | SceneGraphView  | Unity, Editor Tool | Scene graph viewer for Unity, allowing scenes to be saved as annotated nodes — simplifying navigation and preserving scene context. | [Repo](https://github.com/hakansa00219/SceneGraphView) | ✔️ |

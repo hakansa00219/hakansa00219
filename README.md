@@ -10,7 +10,7 @@ Hello!  I'm a software engineer with 7 years of experience in Unity, C# and .NET
 </a>
 <br><br>
 
-- 🔭 I’m currently working on [game jam](https://github.com/hakansa00219/Slimejam) project.                                     
+- 🔭 I’m currently working on a [game jam](https://github.com/hakansa00219/Slimejam) project.                                     
 - 🌱 I’m currently learning CI/CD using Github Actions.
 
 
